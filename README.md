@@ -1,4 +1,4 @@
-# Awesome Malaysia
+# Awesome Malaysia Open Source Projects
 
 A curated list of open-source projects on GitHub made by Malaysian developers or built for the Malaysian market.
 
